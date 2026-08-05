@@ -1,0 +1,14 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\bin\Debug\net10.0\Array-in-reverse-order.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\bin\Debug\net10.0\Array-in-reverse-order.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\bin\Debug\net10.0\Array-in-reverse-order.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\bin\Debug\net10.0\Array-in-reverse-order.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\bin\Debug\net10.0\Array-in-reverse-order.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\refint\Array-in-reverse-order.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\Array-in-reverse-order.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\Array-in-reverse-order\obj\Debug\net10.0\ref\Array-in-reverse-order.dll

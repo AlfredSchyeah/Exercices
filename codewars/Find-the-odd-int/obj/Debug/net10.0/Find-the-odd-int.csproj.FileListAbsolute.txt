@@ -1,0 +1,14 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\bin\Debug\net10.0\Find-the-odd-int.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\bin\Debug\net10.0\Find-the-odd-int.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\bin\Debug\net10.0\Find-the-odd-int.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\bin\Debug\net10.0\Find-the-odd-int.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\bin\Debug\net10.0\Find-the-odd-int.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\refint\Find-the-odd-int.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\Find-the-odd-int.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Find-the-odd-int\obj\Debug\net10.0\ref\Find-the-odd-int.dll

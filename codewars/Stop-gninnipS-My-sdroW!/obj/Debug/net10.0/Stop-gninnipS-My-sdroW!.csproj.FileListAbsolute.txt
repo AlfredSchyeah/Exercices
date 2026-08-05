@@ -1,0 +1,14 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\bin\Debug\net10.0\Stop-gninnipS-My-sdroW!.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\bin\Debug\net10.0\Stop-gninnipS-My-sdroW!.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\bin\Debug\net10.0\Stop-gninnipS-My-sdroW!.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\bin\Debug\net10.0\Stop-gninnipS-My-sdroW!.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\bin\Debug\net10.0\Stop-gninnipS-My-sdroW!.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\refint\Stop-gninnipS-My-sdroW!.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\Stop-gninnipS-My-sdroW!.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Stop-gninnipS-My-sdroW!\obj\Debug\net10.0\ref\Stop-gninnipS-My-sdroW!.dll

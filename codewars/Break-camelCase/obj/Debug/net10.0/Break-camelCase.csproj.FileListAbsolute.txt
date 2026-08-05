@@ -1,0 +1,14 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\bin\Debug\net10.0\Break-camelCase.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\bin\Debug\net10.0\Break-camelCase.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\bin\Debug\net10.0\Break-camelCase.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\bin\Debug\net10.0\Break-camelCase.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\bin\Debug\net10.0\Break-camelCase.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\refint\Break-camelCase.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\Break-camelCase.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Break-camelCase\obj\Debug\net10.0\ref\Break-camelCase.dll

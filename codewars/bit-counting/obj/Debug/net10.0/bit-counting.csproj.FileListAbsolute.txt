@@ -1,0 +1,14 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\bin\Debug\net10.0\bit-counting.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\bin\Debug\net10.0\bit-counting.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\bin\Debug\net10.0\bit-counting.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\bin\Debug\net10.0\bit-counting.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\bin\Debug\net10.0\bit-counting.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\refint\bit-counting.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\bit-counting.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\bit-counting\obj\Debug\net10.0\ref\bit-counting.dll
