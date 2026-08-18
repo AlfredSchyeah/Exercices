@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\bin\Debug\net10.0\Product-of-consecutive-Fib-numbers.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\bin\Debug\net10.0\Product-of-consecutive-Fib-numbers.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\bin\Debug\net10.0\Product-of-consecutive-Fib-numbers.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\bin\Debug\net10.0\Product-of-consecutive-Fib-numbers.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\bin\Debug\net10.0\Product-of-consecutive-Fib-numbers.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\refint\Product-of-consecutive-Fib-numbers.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\Product-of-consecutive-Fib-numbers.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Product-of-consecutive-Fib-numbers\obj\Debug\net10.0\ref\Product-of-consecutive-Fib-numbers.dll
