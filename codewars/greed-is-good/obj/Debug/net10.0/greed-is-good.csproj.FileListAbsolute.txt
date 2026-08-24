@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\bin\Debug\net10.0\greed-is-good.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\bin\Debug\net10.0\greed-is-good.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\bin\Debug\net10.0\greed-is-good.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\bin\Debug\net10.0\greed-is-good.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\bin\Debug\net10.0\greed-is-good.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\refint\greed-is-good.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\greed-is-good.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\greed-is-good\obj\Debug\net10.0\ref\greed-is-good.dll
