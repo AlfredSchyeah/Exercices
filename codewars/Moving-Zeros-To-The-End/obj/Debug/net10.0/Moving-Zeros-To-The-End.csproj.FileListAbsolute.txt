@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\bin\Debug\net10.0\Moving-Zeros-To-The-End.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\bin\Debug\net10.0\Moving-Zeros-To-The-End.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\bin\Debug\net10.0\Moving-Zeros-To-The-End.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\bin\Debug\net10.0\Moving-Zeros-To-The-End.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\bin\Debug\net10.0\Moving-Zeros-To-The-End.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\refint\Moving-Zeros-To-The-End.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\Moving-Zeros-To-The-End.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\Moving-Zeros-To-The-End\obj\Debug\net10.0\ref\Moving-Zeros-To-The-End.dll
