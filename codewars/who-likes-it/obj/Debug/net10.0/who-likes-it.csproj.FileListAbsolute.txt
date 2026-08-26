@@ -1,0 +1,15 @@
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.AssemblyInfoInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.AssemblyInfo.cs
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.csproj.CoreCompileInputs.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.sourcelink.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\bin\Debug\net10.0\who-likes-it.exe
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\bin\Debug\net10.0\who-likes-it.deps.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\bin\Debug\net10.0\who-likes-it.runtimeconfig.json
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\bin\Debug\net10.0\who-likes-it.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\bin\Debug\net10.0\who-likes-it.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\refint\who-likes-it.dll
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.pdb
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\who-likes-it.genruntimeconfig.cache
+C:\Users\iAlfr\OneDrive\Документы\Exercices\codewars\who-likes-it\obj\Debug\net10.0\ref\who-likes-it.dll
